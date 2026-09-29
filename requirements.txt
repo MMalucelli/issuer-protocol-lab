@@ -1,0 +1,5 @@
+altair>=6.0,<7
+openpyxl>=3.1
+pandas>=2.0
+streamlit>=1.64,<2
+pytest>=8.0

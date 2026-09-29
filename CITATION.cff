@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, cite-o usando os metadados abaixo."
+title: "Issuer Protocol Lab"
+type: software
+authors:
+  - family-names: "Malucelli"
+    given-names: "Matheus Turra"
+year: 2026
+date-released: 2026-09-24
+license: Apache-2.0
+abstract: >-
+  Laboratório regulatório determinístico para testar capacidade, disclosure,
+  memória e trajetórias de negociação própria do emissor sob assimetria
+  informacional.
+preferred-citation:
+  type: generic
+  title: "Issuer Protocol Lab: laboratório regulatório para negociação própria do emissor sob assimetria informacional"
+  authors:
+    - family-names: "Malucelli"
+      given-names: "Matheus Turra"
+  year: 2026

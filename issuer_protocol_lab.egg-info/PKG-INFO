@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: issuer-protocol-lab
+Version: 0.45.2
+Summary: Executable laboratory for issuer trading protocol specifications
+Requires-Python: >=3.11
+License-File: LICENSE
+License-File: NOTICE
+Requires-Dist: altair<7,>=6.0
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: pandas>=2.0
+Requires-Dist: streamlit<2,>=1.64
+Provides-Extra: test
+Requires-Dist: pytest>=8.0; extra == "test"
+Dynamic: license-file

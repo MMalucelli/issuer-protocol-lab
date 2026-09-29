@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "issuer-protocol-lab"
+version = "0.45.2"
+description = "Executable laboratory for issuer trading protocol specifications"
+requires-python = ">=3.11"
+dependencies = [
+  "altair>=6.0,<7",
+  "openpyxl>=3.1",
+  "pandas>=2.0",
+  "streamlit>=1.64,<2",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["issuer_lab*"]

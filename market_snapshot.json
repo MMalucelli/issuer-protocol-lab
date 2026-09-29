@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "updated_at": null,
+  "tickers": {
+    "PETR4": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "PETR4",
+        "avg_daily_volume_shares": 55000000,
+        "annualized_volatility": 0.3,
+        "last_price": 38.5,
+        "float_shares": 7400000000,
+        "avg_daily_turnover_brl": 2117500000,
+        "lookback_days": 60
+      }
+    },
+    "VALE3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "VALE3",
+        "avg_daily_volume_shares": 24000000,
+        "annualized_volatility": 0.28,
+        "last_price": 62.0,
+        "float_shares": 4300000000,
+        "avg_daily_turnover_brl": 1488000000,
+        "lookback_days": 60
+      }
+    },
+    "BBSE3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "BBSE3",
+        "avg_daily_volume_shares": 4500000,
+        "annualized_volatility": 0.23,
+        "last_price": 36.0,
+        "float_shares": 1300000000,
+        "avg_daily_turnover_brl": 162000000,
+        "lookback_days": 60
+      }
+    },
+    "MGLU3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "MGLU3",
+        "avg_daily_volume_shares": 18000000,
+        "annualized_volatility": 0.52,
+        "last_price": 10.0,
+        "float_shares": 800000000,
+        "avg_daily_turnover_brl": 180000000,
+        "lookback_days": 60
+      }
+    },
+    "ITUB4": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "ITUB4",
+        "avg_daily_volume_shares": 24000000,
+        "annualized_volatility": 0.25,
+        "last_price": 38.0,
+        "float_shares": 4900000000,
+        "avg_daily_turnover_brl": 912000000,
+        "lookback_days": 60
+      }
+    },
+    "BBAS3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "BBAS3",
+        "avg_daily_volume_shares": 15000000,
+        "annualized_volatility": 0.27,
+        "last_price": 22.0,
+        "float_shares": 2800000000,
+        "avg_daily_turnover_brl": 330000000,
+        "lookback_days": 60
+      }
+    },
+    "WEGE3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "WEGE3",
+        "avg_daily_volume_shares": 8000000,
+        "annualized_volatility": 0.29,
+        "last_price": 44.0,
+        "float_shares": 1500000000,
+        "avg_daily_turnover_brl": 352000000,
+        "lookback_days": 60
+      }
+    },
+    "BBDC4": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "BBDC4",
+        "avg_daily_volume_shares": 25000000,
+        "annualized_volatility": 0.28,
+        "last_price": 15.0,
+        "float_shares": 5000000000,
+        "avg_daily_turnover_brl": 375000000,
+        "lookback_days": 60
+      }
+    },
+    "ABEV3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "ABEV3",
+        "avg_daily_volume_shares": 20000000,
+        "annualized_volatility": 0.22,
+        "last_price": 13.0,
+        "float_shares": 4400000000,
+        "avg_daily_turnover_brl": 260000000,
+        "lookback_days": 60
+      }
+    },
+    "SUZB3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "SUZB3",
+        "avg_daily_volume_shares": 4000000,
+        "annualized_volatility": 0.31,
+        "last_price": 56.0,
+        "float_shares": 800000000,
+        "avg_daily_turnover_brl": 224000000,
+        "lookback_days": 60
+      }
+    },
+    "KEPL3": {
+      "source": "seed_demo",
+      "updated_at": null,
+      "metrics": {
+        "ticker": "KEPL3",
+        "avg_daily_volume_shares": 450000,
+        "annualized_volatility": 0.36,
+        "last_price": 12.0,
+        "float_shares": 115000000,
+        "avg_daily_turnover_brl": 5400000,
+        "lookback_days": 60
+      }
+    }
+  }
+}

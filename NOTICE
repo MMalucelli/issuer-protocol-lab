@@ -1,0 +1,17 @@
+Issuer Protocol Lab
+Copyright 2026 Matheus Turra Malucelli
+
+The software in this distribution is licensed under the Apache License,
+Version 2.0. See LICENSE.
+
+The associated thesis, "Negociação própria do emissor sob assimetria
+informacional: uma arquitetura regulatória de capacidade, disclosure e
+aprendizagem de mercado", is licensed separately under Creative Commons
+Attribution 4.0 International (CC BY 4.0). See THESIS_LICENSE.md.
+
+Preloaded data, scenarios, formulas, parameters, and specifications are
+demonstration and visual-test fixtures. They are not empirical calibration,
+regulatory recommendations, or evidence of viability.
+
+Third-party data, dependencies, trademarks, and referenced materials remain
+subject to their respective rights and licenses.
