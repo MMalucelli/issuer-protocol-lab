@@ -1,4 +1,5 @@
 # Issuer Protocol Lab
+![Companhia e mercado sob supervisão regulatória](docs/assets/capa.png)
 
 Protótipo executável do laboratório de protocolos de negociação do emissor.
 
@@ -8,7 +9,9 @@ Protótipo executável do laboratório de protocolos de negociação do emissor.
 Este repositório reúne a implementação executável, o estado demonstrativo,
 a especificação técnica e a tese que fundamenta o mecanismo.
 
-> **[Abrir a tese — PDF](thesis.pdf)**
+[Leia o artigo de apresentação](docs/ARTIGO.md)
+
+> **[Abrir a tese — PDF](docs/thesis/thesis.pdf)**
 
 O PDF também é preservado em [`docs/thesis/thesis.pdf`](docs/thesis/thesis.pdf),
 com as fontes Markdown e TeX no mesmo diretório.
