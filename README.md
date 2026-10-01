@@ -13,7 +13,7 @@ a especificação técnica e a tese que fundamenta o mecanismo.
 
 > **[Abrir a tese — PDF](docs/thesis/thesis.pdf)**
 
-O PDF também é preservado em [`docs/thesis/thesis.pdf`](docs/thesis/thesis.pdf),
+O PDF é salvo na pasta raiz do projeto com o nome igual ao seu título e preservado em [`docs/thesis/thesis.pdf`](docs/thesis/thesis.pdf),
 com as fontes Markdown e TeX no mesmo diretório.
 
 ## Conteúdo do repositório
